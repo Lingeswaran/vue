@@ -29,6 +29,10 @@ Read the [contributing guide](https://github.com/yyx990803/vue/blob/master/CONTR
 - Twitter: [@vuejs](https://twitter.com/vuejs)
 - freenode IRC Channel: #vuejs
 
+## Changelog
+
+See details changes for each version in the [release notes](https://github.com/yyx990803/vue/releases).
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
